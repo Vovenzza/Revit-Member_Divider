@@ -1,0 +1,4 @@
+C:\CODE\Divider_AN\Divider_AN\Divider_AN\obj\Debug\Divider_AN.csproj.AssemblyReference.cache
+C:\CODE\Divider_AN\Divider_AN\Divider_AN\obj\Debug\Divider_AN.csproj.CoreCompileInputs.cache
+D:\Study\BIM\AI\Code\Try6_BeamDivider\Divider_AN\Divider_AN\Divider_AN\obj\Debug\Divider_AN.csproj.AssemblyReference.cache
+D:\Study\BIM\AI\Code\Try6_BeamDivider\Divider_AN\Divider_AN\Divider_AN\obj\Debug\Divider_AN.csproj.CoreCompileInputs.cache
