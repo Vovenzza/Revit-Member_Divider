@@ -41,7 +41,7 @@ There are two ways to install this add-in:
 
 #### Option 1: Easy Installer (Recommended)
 
-1.  Go to the [**Releases Page**](https://github.com/Vovenzza/Your-New-Repo-Name/releases) for this repository.  **<-- IMPORTANT: Update this link!**
+1.  Go to the [**Releases Page**]([ttps:/h/github.com/Vovenzza/Your-New-Repo-Name/releases](https://github.com/Vovenzza/Revit-Member_Divider/releases)) for this repository.
 2.  Download the `.exe` installer from the latest release.
 3.  Run the installer. It will automatically place the necessary files in your Revit 2023 add-ins folder.
 
