@@ -2,7 +2,7 @@
 
 A high-precision Autodesk Revit 2023 add-in for splitting analytical members (like beams, columns, and braces) at their exact points of intersection with other analytical elements. This tool is essential for structural engineers and modelers who need to break down continuous analytical lines into discrete, connected segments for accurate analysis and documentation.
 
-[Demonstration](https://github.com/Vovenzza/Revit-Member_Divider/blob/aba617ae397483bcfe37938bcc0d99ed27e03b73/Demo.gif)
+![Demonstration](https://github.com/Vovenzza/Revit-Member_Divider/blob/aba617ae397483bcfe37938bcc0d99ed27e03b73/Demo.gif)
 
 ---
 
